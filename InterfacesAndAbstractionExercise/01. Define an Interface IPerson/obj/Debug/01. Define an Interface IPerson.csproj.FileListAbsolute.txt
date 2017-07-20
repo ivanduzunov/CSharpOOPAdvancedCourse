@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\01. Define an Interface IPerson\bin\Debug\_01.Define_an_Interface_IPerson.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\01. Define an Interface IPerson\bin\Debug\_01.Define_an_Interface_IPerson.exe
+c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\01. Define an Interface IPerson\bin\Debug\_01.Define_an_Interface_IPerson.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\01. Define an Interface IPerson\obj\Debug\01. Define an Interface IPerson.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\01. Define an Interface IPerson\obj\Debug\_01.Define_an_Interface_IPerson.exe
+c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\01. Define an Interface IPerson\obj\Debug\_01.Define_an_Interface_IPerson.pdb
