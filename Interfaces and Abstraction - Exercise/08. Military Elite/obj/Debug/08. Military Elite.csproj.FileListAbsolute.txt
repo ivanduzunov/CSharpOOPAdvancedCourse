@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\_08.Military_Elite.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\_08.Military_Elite.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\_08.Military_Elite.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\_08.Military_Elite.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\_08.Military_Elite.pdb
