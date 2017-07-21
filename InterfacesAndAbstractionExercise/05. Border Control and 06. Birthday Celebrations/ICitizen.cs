@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace _05.Border_Control
 {
-    public class Program
+    public interface ICitizen : IMigrant, IBirthtable
     {
-        public static void Main(string[] args)
-        {
-        }
+        string Name { get; }
+        int Age { get; }
+       
     }
 }

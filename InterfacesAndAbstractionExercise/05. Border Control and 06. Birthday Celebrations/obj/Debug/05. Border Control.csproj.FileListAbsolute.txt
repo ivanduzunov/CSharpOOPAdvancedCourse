@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\InterfacesAndAbstractionExercise\05. Border Control\bin\Debug\_05.Border_Control.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\InterfacesAndAbstractionExercise\05. Border Control\bin\Debug\_05.Border_Control.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\InterfacesAndAbstractionExercise\05. Border Control\bin\Debug\_05.Border_Control.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\InterfacesAndAbstractionExercise\05. Border Control\obj\Debug\05. Border Control.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\InterfacesAndAbstractionExercise\05. Border Control\obj\Debug\_05.Border_Control.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\InterfacesAndAbstractionExercise\05. Border Control\obj\Debug\_05.Border_Control.pdb
