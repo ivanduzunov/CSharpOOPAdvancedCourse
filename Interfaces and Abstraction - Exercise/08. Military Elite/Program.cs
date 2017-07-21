@@ -21,19 +21,19 @@ namespace _08.Military_Elite
                 switch (tokens[0])
                 {
                     case "Private":
-                        var sold = new Private(tokens[1], tokens[2], tokens[3], double.Parse(tokens[4]));
+                        var sold = new Private(int.Parse(tokens[1]), tokens[2], tokens[3], double.Parse(tokens[4]));
                         soldiers.Add(sold);
                         Console.WriteLine(sold.ToString());
                         break;
 
 
                     case "LeutenantGeneral":
-                        var leutenant = new LeutenantGeneral(tokens[1], tokens[2], tokens[3], double.Parse(tokens[4]));
+                        var leutenant = new LeutenantGeneral(int.Parse(tokens[1]), tokens[2], tokens[3], double.Parse(tokens[4]));
                         if (tokens.Length > 5)
                         {
                             for (int i = 5; i < tokens.Length; i++)
                             {
-                                leutenant.Privates.Add(soldiers.First(s => s.Id == tokens[i]));
+                                leutenant.Privates.Add(soldiers.First(s => s.Id == int.Parse(tokens[i])));
                             }
                             soldiers.Add(leutenant);
                             Console.WriteLine(leutenant.ToString());
@@ -44,7 +44,7 @@ namespace _08.Military_Elite
                     case "Engineer":
                         if (tokens[5] == "Airforces" || tokens[5] == "Marines")
                         {
-                            Engineer eng = new Engineer(tokens[1], tokens[2], tokens[3], double.Parse(tokens[4]), tokens[5]);
+                            Engineer eng = new Engineer(int.Parse(tokens[1]), tokens[2], tokens[3], double.Parse(tokens[4]), tokens[5]);
                             if (tokens.Length > 6)
                             {
                                 for (int i = 6; i < tokens.Length; i += 2)
@@ -63,7 +63,7 @@ namespace _08.Military_Elite
                     case "Commando":
                         if (tokens[5] == "Airforces" || tokens[5] == "Marines")
                         {
-                            Commando comm = new Commando(tokens[1], tokens[2], tokens[3], double.Parse(tokens[4]), tokens[5]);
+                            Commando comm = new Commando(int.Parse(tokens[1]), tokens[2], tokens[3], double.Parse(tokens[4]), tokens[5]);
                             if (tokens.Length > 6)
                             {
                                 for (int i = 6; i < tokens.Length; i += 2)
@@ -83,7 +83,7 @@ namespace _08.Military_Elite
 
 
                     case "Spy ":
-                        var spy = (new Spy(tokens[1], tokens[2], tokens[3], int.Parse(tokens[4])));
+                        var spy = (new Spy(int.Parse(tokens[1]), tokens[2], tokens[3], tokens[4]));
                         soldiers.Add(spy);
                         Console.WriteLine(spy.ToString());
                         break;

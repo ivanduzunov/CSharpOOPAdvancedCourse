@@ -8,7 +8,7 @@ namespace _08.Military_Elite
 {
     public class Commando : ISpecialisedSoldier
     {
-        public Commando(string id, string firstName, string lastName, double salary, string corps)
+        public Commando(int id, string firstName, string lastName, double salary, string corps)
         {
             this.Id = id;
             this.FirstName = firstName;
@@ -17,7 +17,7 @@ namespace _08.Military_Elite
             this.Corps = corps;
             this.Missions = new List<Mission>();
         }
-        public string Id { get; private set; }
+        public int Id { get; private set; }
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
         public double Salary { get; }

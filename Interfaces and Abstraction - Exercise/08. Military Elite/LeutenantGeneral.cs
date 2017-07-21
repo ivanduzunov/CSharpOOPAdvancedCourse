@@ -9,7 +9,7 @@ namespace _08.Military_Elite
 {
     public class LeutenantGeneral : ILeutenantGeneral
     {
-        public LeutenantGeneral(string id, string firstName, string lastName, double salary)
+        public LeutenantGeneral(int id, string firstName, string lastName, double salary)
         {
             this.Id = id;
             this.FirstName = firstName;
@@ -18,7 +18,7 @@ namespace _08.Military_Elite
             this.Privates = new List<ISoldier>();
         }
 
-        public string Id { get; private set; }
+        public int Id { get; private set; }
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
         public double Salary { get; }

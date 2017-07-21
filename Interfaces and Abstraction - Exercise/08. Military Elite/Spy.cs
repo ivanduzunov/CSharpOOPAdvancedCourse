@@ -8,23 +8,23 @@ namespace _08.Military_Elite
 {
     public class Spy : ISoldier
     {
-        public Spy(string id, string firstName, string lastName, int number)
+        public Spy(int id, string firstName, string lastName, string number)
         {
             this.Id = id;
             this.FirstName = firstName;
             this.LastName = lastName;
             this.Number = number;
         }
-        public string Id { get; private set; }
+        public int Id { get; private set; }
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
-        public int Number { get; private set; }
+        public string Number { get; private set; }
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id}");
-            sb.AppendLine($"Code Number: {Number}");
+            sb.AppendLine($"Code Number: {Number.TrimStart(new char[] { '0' })}");
             return sb.ToString();
         }
     }

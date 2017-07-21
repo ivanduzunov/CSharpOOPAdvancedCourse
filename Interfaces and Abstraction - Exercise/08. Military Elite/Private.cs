@@ -8,7 +8,7 @@ namespace _08.Military_Elite
 {
     public class Private : IPrivate
     {
-        public Private(string id, string firstName, string lastName, double salary)
+        public Private(int id, string firstName, string lastName, double salary)
         {
             this.Id = id;
             this.FirstName = firstName;
@@ -16,7 +16,7 @@ namespace _08.Military_Elite
             this.Salary = salary;
         }
         public double Salary { get; private set; }
-        public string Id { get; private set; }
+        public int Id { get; private set; }
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
 
