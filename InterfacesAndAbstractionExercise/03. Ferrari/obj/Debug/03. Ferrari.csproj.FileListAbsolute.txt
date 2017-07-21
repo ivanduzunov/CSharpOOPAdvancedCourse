@@ -1,6 +1,0 @@
-c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\03. Ferrari\obj\Debug\03. Ferrari.csprojResolveAssemblyReference.cache
-c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\03. Ferrari\bin\Debug\_03.Ferrari.exe.config
-c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\03. Ferrari\bin\Debug\_03.Ferrari.exe
-c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\03. Ferrari\bin\Debug\_03.Ferrari.pdb
-c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\03. Ferrari\obj\Debug\_03.Ferrari.exe
-c:\users\mihail\documents\visual studio 2017\Projects\InterfacesAndAbstractionExercise\03. Ferrari\obj\Debug\_03.Ferrari.pdb
