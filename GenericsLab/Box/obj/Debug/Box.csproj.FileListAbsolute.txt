@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsLab\Box\bin\Debug\Box.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsLab\Box\bin\Debug\Box.exe
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsLab\Box\bin\Debug\Box.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsLab\Box\obj\Debug\Box.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsLab\Box\obj\Debug\Box.exe
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsLab\Box\obj\Debug\Box.pdb
