@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericCountMethod\bin\Debug\GenericCountMethod.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericCountMethod\bin\Debug\GenericCountMethod.exe
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericCountMethod\bin\Debug\GenericCountMethod.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericCountMethod\obj\Debug\GenericCountMethod.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericCountMethod\obj\Debug\GenericCountMethod.exe
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericCountMethod\obj\Debug\GenericCountMethod.pdb

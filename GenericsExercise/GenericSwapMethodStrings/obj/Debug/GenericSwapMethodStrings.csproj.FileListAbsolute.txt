@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericSwapMethodStrings\bin\Debug\GenericSwapMethodStrings.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericSwapMethodStrings\bin\Debug\GenericSwapMethodStrings.exe
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericSwapMethodStrings\bin\Debug\GenericSwapMethodStrings.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericSwapMethodStrings\obj\Debug\GenericSwapMethodStrings.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericSwapMethodStrings\obj\Debug\GenericSwapMethodStrings.exe
+c:\users\mihail\documents\visual studio 2017\Projects\GenericsExercise\GenericSwapMethodStrings\obj\Debug\GenericSwapMethodStrings.pdb
