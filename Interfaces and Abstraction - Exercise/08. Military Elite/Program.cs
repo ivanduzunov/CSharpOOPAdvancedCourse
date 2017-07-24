@@ -23,7 +23,7 @@ namespace _08.Military_Elite
                     case "Private":
                         var sold = new Private(int.Parse(tokens[1]), tokens[2], tokens[3], double.Parse(tokens[4]));
                         soldiers.Add(sold);
-                        Console.WriteLine(sold.ToString());
+                        Console.WriteLine(sold);
                         break;
 
 
@@ -36,7 +36,7 @@ namespace _08.Military_Elite
                                 leutenant.Privates.Add(soldiers.First(s => s.Id == int.Parse(tokens[i])));
                             }
                             soldiers.Add(leutenant);
-                            Console.WriteLine(leutenant.ToString());
+                            Console.WriteLine(leutenant);
                         }
                         break;
 
@@ -53,7 +53,7 @@ namespace _08.Military_Elite
                                     eng.Repairs.Add(new Repair(tokens[i], int.Parse(tokens[i + 1])));
                                 }
                                 soldiers.Add(eng);
-                                Console.WriteLine(eng.ToString());
+                                Console.WriteLine(eng);
                             }
                         }
 
@@ -77,15 +77,15 @@ namespace _08.Military_Elite
                                
                             }
                             soldiers.Add(comm);
-                            Console.WriteLine(comm.ToString());
+                            Console.WriteLine(comm);
                         }
                         break;
 
 
                     case "Spy ":
-                        var spy = (new Spy(int.Parse(tokens[1]), tokens[2], tokens[3], tokens[4]));
+                        var spy = (new Spy(int.Parse(tokens[1]), tokens[2], tokens[3], int.Parse(tokens[4])));
                         soldiers.Add(spy);
-                        Console.WriteLine(spy.ToString());
+                        Console.WriteLine(spy);
                         break;
                 }
             }
