@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Tuple\bin\Debug\Tuple.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Tuple\bin\Debug\Tuple.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Tuple\obj\Debug\Tuple.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Tuple\obj\Debug\Tuple.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Tuple\obj\Debug\Tuple.pdb

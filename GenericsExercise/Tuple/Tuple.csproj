@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8A176083-670D-41B8-8317-40C6A29F60D8}</ProjectGuid>
+    <ProjectGuid>{E302EFDC-9167-434E-8AFE-D94361032A27}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CustomList</RootNamespace>
-    <AssemblyName>CustomList</AssemblyName>
+    <RootNamespace>Tuple</RootNamespace>
+    <AssemblyName>Tuple</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,11 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CommandInterpretator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sorter.cs" />
-    <Compile Include="Structure.cs" />
+    <Compile Include="Tuple.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

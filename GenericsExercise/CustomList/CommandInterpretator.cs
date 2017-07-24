@@ -54,6 +54,10 @@ namespace CustomList
                     }
                     break;
 
+                case "Sort":
+                    collection = Sorter<string>.Sort(collection);
+                    break;
+
             }
         }
     }

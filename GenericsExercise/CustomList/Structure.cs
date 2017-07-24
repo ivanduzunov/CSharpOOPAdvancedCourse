@@ -16,6 +16,10 @@ namespace CustomList
         {
             this.collection = new List<T>();
         }
+        public Structure(IList<T> collection)
+        {
+            this.collection = new List<T>(collection);
+        }
 
         public void Add(T element)
         {

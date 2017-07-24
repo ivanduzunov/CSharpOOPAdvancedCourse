@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Threeuple\bin\Debug\Threeuple.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Threeuple\bin\Debug\Threeuple.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Threeuple\bin\Debug\Threeuple.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Threeuple\obj\Debug\Threeuple.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Threeuple\obj\Debug\Threeuple.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\Threeuple\obj\Debug\Threeuple.pdb
