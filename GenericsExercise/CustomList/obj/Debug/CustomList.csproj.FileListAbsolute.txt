@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\CustomList\bin\Debug\CustomList.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\CustomList\obj\Debug\CustomList.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\GenericsExercise\CustomList\obj\Debug\CustomList.pdb
