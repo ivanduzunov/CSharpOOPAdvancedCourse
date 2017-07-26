@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsАndComparatorsLab\01. Library\obj\Debug\01. Library.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsАndComparatorsLab\01. Library\bin\Debug\_01.Library.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsАndComparatorsLab\01. Library\bin\Debug\_01.Library.exe
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsАndComparatorsLab\01. Library\bin\Debug\_01.Library.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsАndComparatorsLab\01. Library\obj\Debug\_01.Library.exe
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsАndComparatorsLab\01. Library\obj\Debug\_01.Library.pdb
