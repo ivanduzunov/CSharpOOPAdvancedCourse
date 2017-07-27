@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Froggy\bin\Debug\Froggy.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Froggy\bin\Debug\Froggy.exe
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Froggy\bin\Debug\Froggy.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Froggy\obj\Debug\Froggy.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Froggy\obj\Debug\Froggy.exe
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Froggy\obj\Debug\Froggy.pdb

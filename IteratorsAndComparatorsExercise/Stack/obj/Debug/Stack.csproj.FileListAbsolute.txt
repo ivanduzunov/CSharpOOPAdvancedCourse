@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Stack\bin\Debug\Stack.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Stack\bin\Debug\Stack.exe
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Stack\bin\Debug\Stack.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Stack\obj\Debug\Stack.exe
+c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\Stack\obj\Debug\Stack.pdb

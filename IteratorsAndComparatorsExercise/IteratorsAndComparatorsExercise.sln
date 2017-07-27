@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ListyIterator", "01. ListyIterator\01. ListyIterator.csproj", "{8E1C42D2-B12E-4DFB-8313-72330985D1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{45943427-F416-4841-814B-86AA39FAE3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Froggy", "Froggy\Froggy.csproj", "{2F45F6F3-687A-4941-8687-00F0E3E40168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1C42D2-B12E-4DFB-8313-72330985D1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1C42D2-B12E-4DFB-8313-72330985D1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1C42D2-B12E-4DFB-8313-72330985D1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1C42D2-B12E-4DFB-8313-72330985D1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45943427-F416-4841-814B-86AA39FAE3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45943427-F416-4841-814B-86AA39FAE3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45943427-F416-4841-814B-86AA39FAE3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45943427-F416-4841-814B-86AA39FAE3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F45F6F3-687A-4941-8687-00F0E3E40168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F45F6F3-687A-4941-8687-00F0E3E40168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F45F6F3-687A-4941-8687-00F0E3E40168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F45F6F3-687A-4941-8687-00F0E3E40168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
