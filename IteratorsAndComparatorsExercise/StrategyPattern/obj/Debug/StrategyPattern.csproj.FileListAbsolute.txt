@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\StrategyPattern\obj\Debug\StrategyPattern.pdb
