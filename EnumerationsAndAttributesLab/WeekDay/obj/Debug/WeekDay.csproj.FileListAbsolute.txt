@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\WeekDay\bin\Debug\WeekDay.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\WeekDay\bin\Debug\WeekDay.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\WeekDay\bin\Debug\WeekDay.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\WeekDay\obj\Debug\WeekDay.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\WeekDay\obj\Debug\WeekDay.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\WeekDay\obj\Debug\WeekDay.pdb

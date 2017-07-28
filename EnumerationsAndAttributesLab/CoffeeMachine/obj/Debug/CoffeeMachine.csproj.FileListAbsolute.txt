@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesLab\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
