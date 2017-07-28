@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\bin\Debug\CardSuit.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\bin\Debug\CardSuit.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\bin\Debug\CardSuit.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.pdb

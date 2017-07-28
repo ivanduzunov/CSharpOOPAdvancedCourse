@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\bin\Debug\CardPower.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\bin\Debug\CardPower.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\bin\Debug\CardPower.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.exe
+c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.pdb
