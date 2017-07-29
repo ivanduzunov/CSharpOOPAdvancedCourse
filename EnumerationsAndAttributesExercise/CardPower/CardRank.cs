@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CardPower
 {
+    [Type("Enumeration", "Rank", "Provides rank constants for a Card class.")]
     public enum CardRank
     {
         Ace = 14,

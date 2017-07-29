@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,7 +11,7 @@ namespace CardPower
     {
         public static void Main(string[] args)
         {
-            CardsCompare();
+           
         }
 
         public static void CardsCompare()
@@ -31,5 +32,27 @@ namespace CardPower
             Card resultCard = cards.OrderByDescending(c => c).First();
             Console.WriteLine(resultCard.ToString());
         }
+        public static void CustomEnumAttribute()
+        {
+            var enumType = Console.ReadLine();
+
+            Type type = null;
+            if (enumType == "Rank")
+            {
+                type = typeof(CardRank);
+            }
+            else
+            {
+                type = typeof(CardSuit);
+            }
+            var attributes = type.GetCustomAttributes(true);
+
+            foreach (var attribute in attributes)
+            {
+                Console.WriteLine(attribute.ToString());
+            }
+        }
+
+       
     }
 }

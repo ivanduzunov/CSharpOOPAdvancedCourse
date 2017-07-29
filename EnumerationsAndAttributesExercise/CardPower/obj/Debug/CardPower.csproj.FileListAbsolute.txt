@@ -4,3 +4,9 @@ c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesE
 c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.csprojResolveAssemblyReference.cache
 c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.exe
 c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardPower\bin\Debug\CardPower.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardPower\bin\Debug\CardPower.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardPower\bin\Debug\CardPower.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardPower\obj\Debug\CardPower.pdb
