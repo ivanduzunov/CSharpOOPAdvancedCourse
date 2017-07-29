@@ -4,3 +4,9 @@ c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesE
 c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.csprojResolveAssemblyReference.cache
 c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.exe
 c:\users\mihail\documents\visual studio 2017\Projects\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardSuit\bin\Debug\CardSuit.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardSuit\bin\Debug\CardSuit.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardSuit\bin\Debug\CardSuit.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\CardSuit\obj\Debug\CardSuit.pdb

@@ -10,8 +10,8 @@ namespace CardSuit
     public enum CardSuit
     {
         Clubs,
-        Diamonds,
         Hearts,
+        Diamonds,       
         Spades
     }
 }

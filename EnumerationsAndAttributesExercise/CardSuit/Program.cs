@@ -10,15 +10,7 @@ namespace CardSuit
     {
         public static void Main(string[] args)
         {
-            var input = Console.ReadLine();
-            if (input == "Card Suits")
-            {
-                PrintSuit(input);
-            }
-            else
-            {
-                PrintRank(input);
-            }
+            DeckOfCards();
         }
 
         public static void PrintSuit(string input)
@@ -45,6 +37,21 @@ namespace CardSuit
 
 
 
+        }
+        public static void DeckOfCards()
+        {
+            var ranks = Enum.GetNames(typeof(CardRank));
+            var suits = Enum.GetNames(typeof(CardSuit));
+
+            
+
+            foreach (var suit in suits)
+            {
+                foreach (var rank in ranks)
+                {
+                    Console.WriteLine($"{rank} of {suit}");
+                }
+            }
         }
     }
 }
