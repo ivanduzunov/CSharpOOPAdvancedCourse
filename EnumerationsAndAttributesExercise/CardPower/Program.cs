@@ -12,6 +12,7 @@ namespace CardPower
         public static void Main(string[] args)
         {
            
+
         }
 
         public static void CardsCompare()
@@ -52,7 +53,76 @@ namespace CardPower
                 Console.WriteLine(attribute.ToString());
             }
         }
+        public static void CardGame()
+        {
+            Dictionary<string, List<Card>> players = new Dictionary<string, List<Card>>();
+            List<Card> usedCards = new List<Card>();
 
-       
+            var player1 = Console.ReadLine();
+            players.Add(player1, new List<Card>());
+            var player2 = Console.ReadLine();
+            players.Add(player2, new List<Card>());
+
+            while (players[player1].Count != 5)
+            {
+                var tokens = Console.ReadLine().Split();
+                try
+                {
+                    CardRank rankC = (CardRank)Enum.Parse(typeof(CardRank), tokens[0]);
+                    CardSuit suitC = (CardSuit)Enum.Parse(typeof(CardSuit), tokens[2]);
+                    Card card = new Card(suitC, rankC);
+                    if (usedCards.Where(c => c.Rank == rankC).Where(c => c.Suit == suitC).Count() == 0)
+                    {
+                        players[player1].Add(card);
+                        usedCards.Add(card);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Card is not in the deck.");
+                    }
+
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("No such card exists.");
+                }
+            }
+            while (players[player2].Count != 5)
+            {
+                var tokens = Console.ReadLine().Split();
+                try
+                {
+                    CardRank rankC = (CardRank)Enum.Parse(typeof(CardRank), tokens[0]);
+                    CardSuit suitC = (CardSuit)Enum.Parse(typeof(CardSuit), tokens[2]);
+                    Card card = new Card(suitC, rankC);
+                    if (usedCards.Where(c => c.Rank == rankC).Where(c => c.Suit == suitC).Count() == 0)
+                    {
+                        players[player2].Add(card);
+                        usedCards.Add(card);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Card is not in the deck.");
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("No such card exists.");
+                }
+            }
+
+            Card playerOneBiggestCard = players[player1].OrderByDescending(p => p.Power).First();
+            Card playerTwoBiggestCard = players[player2].OrderByDescending(p => p.Power).First();
+            if (playerOneBiggestCard.Power > playerTwoBiggestCard.Power)
+            {
+                Console.WriteLine($"{player1} wins with {playerOneBiggestCard.Rank} of {playerOneBiggestCard.Suit}.");
+            }
+            else
+            {
+                Console.WriteLine($"{player2} wins with {playerTwoBiggestCard.Rank} of {playerTwoBiggestCard.Suit}.");
+            }
+        }
+
+
     }
 }

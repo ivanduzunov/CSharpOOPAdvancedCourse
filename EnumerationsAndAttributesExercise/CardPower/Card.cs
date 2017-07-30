@@ -10,18 +10,22 @@ namespace CardPower
 {
     public class Card : IComparable<Card>
     {
-        private CardRank rank;
-        private CardSuit suit;
+       
 
         public Card(CardSuit suit, CardRank rank)
         {
-            this.suit = suit;
-            this.rank = rank;
+            this.Suit = suit;
+            this.Rank = rank;
+            this.Power = (int)this.Rank + (int)this.Suit;
         }
+
+        public int Power{ get;  }
+        public CardRank Rank { get;  }
+        public CardSuit Suit { get;  }
 
         public override string ToString()
         {
-            return $"Card name: {this.rank} of {this.suit}; Card power: {(int)this.rank + (int)this.suit}";
+            return $"Card name: {this.Rank} of {this.Suit}; Card power: {(int)this.Rank + (int)this.Suit}";
         }
 
         public int CompareTo(Card other)
@@ -34,8 +38,8 @@ namespace CardPower
             {
                 return 1;
             }
-            var firstResult = (int)this.rank + (int)this.suit;
-            var secondResult = (int)other.rank + (int)other.suit;
+            var firstResult = (int)this.Rank + (int)this.Suit;
+            var secondResult = (int)other.Rank + (int)other.Suit;
             var rankComparison = firstResult.CompareTo(secondResult);
             return rankComparison;
         }
