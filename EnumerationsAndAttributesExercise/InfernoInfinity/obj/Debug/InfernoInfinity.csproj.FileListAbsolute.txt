@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\InfernoInfinity\bin\Debug\InfernoInfinity.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\InfernoInfinity\bin\Debug\InfernoInfinity.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\InfernoInfinity\bin\Debug\InfernoInfinity.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\InfernoInfinity\obj\Debug\InfernoInfinity.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\InfernoInfinity\obj\Debug\InfernoInfinity.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\InfernoInfinity\obj\Debug\InfernoInfinity.pdb
