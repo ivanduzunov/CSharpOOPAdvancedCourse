@@ -54,6 +54,8 @@
     <Compile Include="Core\Factories\UnitFactory.cs" />
     <Compile Include="Data\UnitRepository.cs" />
     <Compile Include="Models\Units\Archer.cs" />
+    <Compile Include="Models\Units\Gunner.cs" />
+    <Compile Include="Models\Units\Horseman.cs" />
     <Compile Include="Models\Units\Pikeman.cs" />
     <Compile Include="Models\Units\SwordsMan.cs" />
     <Compile Include="Models\Units\Unit.cs" />
