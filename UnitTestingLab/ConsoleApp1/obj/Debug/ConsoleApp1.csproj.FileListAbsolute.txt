@@ -1,0 +1,5 @@
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingLab\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingLab\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingLab\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingLab\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingLab\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
