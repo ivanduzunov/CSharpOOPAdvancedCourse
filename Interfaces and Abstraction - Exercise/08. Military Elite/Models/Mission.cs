@@ -4,10 +4,11 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using _08.Military_Elite.Interfaces;
 
 namespace _08.Military_Elite
 {
-    public class Mission
+    public class Mission : IMission
     {
         public Mission(string codeName, string state)
         {

@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _08.Military_Elite
+namespace _08.Military_Elite.Interfaces
 {
-    public interface ISpecialisedSoldier : IPrivate
+    public interface IMission
     {
-        string Corps { get; }
+        string CodeName { get; }
+        string State { get; }
     }
 }

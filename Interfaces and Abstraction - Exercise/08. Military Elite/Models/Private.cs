@@ -15,10 +15,11 @@ namespace _08.Military_Elite
             this.LastName = lastName;
             this.Salary = salary;
         }
-        public double Salary { get; private set; }
-        public int Id { get; private set; }
-        public string FirstName { get; private set; }
-        public string LastName { get; private set; }
+       
+        public int Id { get;  }
+        public string FirstName { get;  }
+        public string LastName { get;  }
+        public double Salary { get; }
 
         public override string ToString()
         {

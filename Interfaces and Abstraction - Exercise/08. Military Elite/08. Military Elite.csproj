@@ -42,19 +42,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Commando.cs" />
-    <Compile Include="Engineer.cs" />
-    <Compile Include="ILeutenantGeneral.cs" />
-    <Compile Include="IPrivate.cs" />
-    <Compile Include="ISpecialisedSoldier.cs" />
-    <Compile Include="LeutenantGeneral.cs" />
-    <Compile Include="Mission.cs" />
-    <Compile Include="Private.cs" />
-    <Compile Include="ISoldier.cs" />
+    <Compile Include="Interfaces\ICommando.cs" />
+    <Compile Include="Interfaces\IEngeneer.cs" />
+    <Compile Include="Interfaces\IMission.cs" />
+    <Compile Include="Interfaces\IRepair.cs" />
+    <Compile Include="Interfaces\ISpy.cs" />
+    <Compile Include="Models\Commando.cs" />
+    <Compile Include="Models\Engineer.cs" />
+    <Compile Include="Interfaces\ILeutenantGeneral.cs" />
+    <Compile Include="Interfaces\IPrivate.cs" />
+    <Compile Include="Interfaces\ISpecialisedSoldier.cs" />
+    <Compile Include="Models\LeutenantGeneral.cs" />
+    <Compile Include="Models\Mission.cs" />
+    <Compile Include="Models\Private.cs" />
+    <Compile Include="Interfaces\ISoldier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repair.cs" />
-    <Compile Include="Spy.cs" />
+    <Compile Include="Models\Repair.cs" />
+    <Compile Include="Models\Spy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

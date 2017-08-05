@@ -11,7 +11,6 @@ namespace _08.Military_Elite
     {
         int Id { get; }
         string FirstName { get; }
-        string LastName { get; }
-       
+        string LastName { get; }      
     }
 }

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _08.Military_Elite
+namespace _08.Military_Elite.Interfaces
 {
-    public interface ILeutenantGeneral : IPrivate
+    public interface IEngeneer : ISpecialisedSoldier
     {
-        List<ISoldier> Privates { get; }
+        List<IRepair> Repairs { get;  }
     }
 }

@@ -15,15 +15,19 @@ namespace _08.Military_Elite
 
             var input = string.Empty;
 
-            while ((input = Console.ReadLine()) != "End")
+            while ((input = Console.ReadLine().Trim()) != "End")
             {
-                var tokens = input.Split();
+                var tokens = input.Split(' ');
                 switch (tokens[0])
                 {
                     case "Private":
-                        var sold = new Private(int.Parse(tokens[1]), tokens[2], tokens[3], double.Parse(tokens[4]));
+                        int id = int.Parse(tokens[1]);
+                        string firstName = tokens[2];
+                        string lastName = tokens[3];
+                        double  salary = double.Parse(tokens[4]);
+                        IPrivate sold = new Private(id, firstName, lastName, salary);
                         soldiers.Add(sold);
-                        Console.WriteLine(sold);
+                        Console.WriteLine(sold.ToString());
                         break;
 
 
@@ -35,9 +39,9 @@ namespace _08.Military_Elite
                             {
                                 leutenant.Privates.Add(soldiers.First(s => s.Id == int.Parse(tokens[i])));
                             }
-                            soldiers.Add(leutenant);
-                            Console.WriteLine(leutenant);
+                            soldiers.Add(leutenant);                          
                         }
+                        Console.WriteLine(leutenant.ToString());
                         break;
 
 
@@ -74,7 +78,7 @@ namespace _08.Military_Elite
                                     }
 
                                 }
-                               
+
                             }
                             soldiers.Add(comm);
                             Console.WriteLine(comm);
@@ -82,10 +86,10 @@ namespace _08.Military_Elite
                         break;
 
 
-                    case "Spy ":
+                    case "Spy":
                         var spy = (new Spy(int.Parse(tokens[1]), tokens[2], tokens[3], int.Parse(tokens[4])));
                         soldiers.Add(spy);
-                        Console.WriteLine(spy);
+                        Console.WriteLine(spy.ToString());
                         break;
                 }
             }

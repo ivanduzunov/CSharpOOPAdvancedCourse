@@ -21,7 +21,7 @@ namespace _08.Military_Elite
         public int Id { get; private set; }
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
-        public double Salary { get; }
+        public double Salary { get; private set; }
         public List<ISoldier> Privates { get; set; }
 
         public override string ToString()
@@ -29,10 +29,15 @@ namespace _08.Military_Elite
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:f2}");
             sb.AppendLine("Privates:");
-            foreach (var soldier in Privates)
+            if (this.Privates.Count>0)
             {
-                sb.AppendLine("  " + soldier.ToString());
+               
+                foreach (var soldier in Privates)
+                {
+                    sb.AppendLine("  " + soldier.ToString());
+                }
             }
+           
 
             return sb.ToString().Trim();
         }
