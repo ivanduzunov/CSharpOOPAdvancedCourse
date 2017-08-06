@@ -1,0 +1,6 @@
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\ReflectionExercise\HarvestingFields\bin\Debug\HarvestingFields.exe.config
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\ReflectionExercise\HarvestingFields\bin\Debug\HarvestingFields.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\ReflectionExercise\HarvestingFields\bin\Debug\HarvestingFields.pdb
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\ReflectionExercise\HarvestingFields\obj\Debug\HarvestingFields.csprojResolveAssemblyReference.cache
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\ReflectionExercise\HarvestingFields\obj\Debug\HarvestingFields.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\ReflectionExercise\HarvestingFields\obj\Debug\HarvestingFields.pdb

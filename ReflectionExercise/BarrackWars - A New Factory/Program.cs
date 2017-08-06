@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BarrackWars___A_New_Factory.Core;
 
 namespace BarrackWars___A_New_Factory
 {
@@ -16,7 +17,9 @@ namespace BarrackWars___A_New_Factory
         {
             IRepository repository = new UnitRepository();
             IUnitFactory unitFactory = new UnitFactory();
-            IRunnable engine = new Engine(repository, unitFactory);
+            ICommandInterpreter commandInterpreter 
+                = new CommandInterpreter(repository,unitFactory);
+            IRunnable engine = new Engine(commandInterpreter);
             engine.Run();
         }
     }
