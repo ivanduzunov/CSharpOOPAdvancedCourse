@@ -1,0 +1,6 @@
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\Interfaces and Abstraction - Exercise\ConsoleApp1\obj\Debug\CallHierarhy.csprojResolveAssemblyReference.cache
