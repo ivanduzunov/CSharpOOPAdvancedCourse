@@ -1,0 +1,5 @@
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingExercise\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingExercise\DatabaseProject\bin\Debug\DatabaseProject.exe
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingExercise\DatabaseProject\bin\Debug\DatabaseProject.pdb
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingExercise\DatabaseProject\obj\Debug\DatabaseProject.exe
+c:\users\mitko\documents\visual studio 2017\Projects\UnitTestingExercise\DatabaseProject\obj\Debug\DatabaseProject.pdb
