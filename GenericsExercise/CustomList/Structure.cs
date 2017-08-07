@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -7,8 +8,9 @@ using System.Threading.Tasks;
 
 namespace CustomList
 {
-    public class Structure<T>
+    public class Structure<T> : IEnumerable<T>
         where T : IComparable<T>
+        
     {
         private IList<T> collection;
 
@@ -65,6 +67,19 @@ namespace CustomList
         public IList<T> GetList()
         {
             return this.collection;
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < collection.Count; i++)
+            {
+                yield return collection[i];
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }
