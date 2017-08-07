@@ -1,0 +1,6 @@
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\InterfacesAndAbstractionLab\ExplicitInterfacesEx\bin\Debug\ExplicitInterfacesEx.exe.config
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\InterfacesAndAbstractionLab\ExplicitInterfacesEx\bin\Debug\ExplicitInterfacesEx.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\InterfacesAndAbstractionLab\ExplicitInterfacesEx\bin\Debug\ExplicitInterfacesEx.pdb
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\InterfacesAndAbstractionLab\ExplicitInterfacesEx\obj\Debug\ExplicitInterfacesEx.csprojResolveAssemblyReference.cache
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\InterfacesAndAbstractionLab\ExplicitInterfacesEx\obj\Debug\ExplicitInterfacesEx.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\InterfacesAndAbstractionLab\ExplicitInterfacesEx\obj\Debug\ExplicitInterfacesEx.pdb
