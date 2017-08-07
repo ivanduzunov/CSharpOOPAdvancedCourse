@@ -27,7 +27,7 @@ namespace _01.ListyIterator
 
         public bool Move()
         {
-            if (this.CurrentIndex < this.collection.Count - 1)
+            if (HasNext() == true)
             {
                 currentIndex++;
                 return true;
@@ -58,8 +58,7 @@ namespace _01.ListyIterator
         }
 
         public IEnumerator<T> GetEnumerator()
-        {
-            
+        {         
             for (int i = 0; i < collection.Count; i++)
             {
                yield return this.collection[i];

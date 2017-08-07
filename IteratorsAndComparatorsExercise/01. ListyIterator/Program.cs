@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Common;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.SqlServer.Server;
 
 namespace _01.ListyIterator
 {
@@ -12,8 +14,8 @@ namespace _01.ListyIterator
         public static void Main(string[] args)
         {
             var create = Console.ReadLine().Split();
-            var list = create.Skip(1).Take(create.Length - 1).ToArray();
-            var iterator = new ListyIterator<string>(list);
+            var elements = create.Skip(1).Take(create.Length - 1).ToArray();
+            var iterator = new ListyIterator<string>(elements);
 
             var input = string.Empty;
             while ((input = Console.ReadLine()) != "END")

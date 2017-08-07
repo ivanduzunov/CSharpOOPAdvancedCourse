@@ -4,3 +4,9 @@ c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExe
 c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\01. ListyIterator\obj\Debug\01. ListyIterator.csprojResolveAssemblyReference.cache
 c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\01. ListyIterator\obj\Debug\_01.ListyIterator.exe
 c:\users\mihail\documents\visual studio 2017\Projects\IteratorsAndComparatorsExercise\01. ListyIterator\obj\Debug\_01.ListyIterator.pdb
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\01. ListyIterator\bin\Debug\_01.ListyIterator.exe.config
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\01. ListyIterator\bin\Debug\_01.ListyIterator.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\01. ListyIterator\bin\Debug\_01.ListyIterator.pdb
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\01. ListyIterator\obj\Debug\01. ListyIterator.csprojResolveAssemblyReference.cache
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\01. ListyIterator\obj\Debug\_01.ListyIterator.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\IteratorsAndComparatorsExercise\01. ListyIterator\obj\Debug\_01.ListyIterator.pdb
