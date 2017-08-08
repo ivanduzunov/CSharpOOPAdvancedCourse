@@ -19,14 +19,15 @@ namespace CardPower
             this.Power = (int)this.Rank + (int)this.Suit;
         }
 
-        public int Power{ get;  }
-        public CardRank Rank { get;  }
-        public CardSuit Suit { get;  }
+        public int Power{ get; private set; }
+        public  CardRank Rank { get; private set; }
+        public  CardSuit Suit { get; private set; }
 
         public override string ToString()
         {
             return $"Card name: {this.Rank} of {this.Suit}; Card power: {(int)this.Rank + (int)this.Suit}";
         }
+
 
         public int CompareTo(Card other)
         {

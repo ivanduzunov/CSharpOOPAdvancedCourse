@@ -1,0 +1,6 @@
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\MyAttributeAndEnumeration\bin\Debug\MyAttributeAndEnumeration.exe.config
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\MyAttributeAndEnumeration\bin\Debug\MyAttributeAndEnumeration.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\MyAttributeAndEnumeration\bin\Debug\MyAttributeAndEnumeration.pdb
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\MyAttributeAndEnumeration\obj\Debug\MyAttributeAndEnumeration.csprojResolveAssemblyReference.cache
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\MyAttributeAndEnumeration\obj\Debug\MyAttributeAndEnumeration.exe
+C:\Users\mitko\Desktop\ИВАН\CSharpOOPAdvancedCourse\EnumerationsAndAttributesExercise\MyAttributeAndEnumeration\obj\Debug\MyAttributeAndEnumeration.pdb

@@ -122,7 +122,5 @@ namespace CardPower
                 Console.WriteLine($"{player2} wins with {playerTwoBiggestCard.Rank} of {playerTwoBiggestCard.Suit}.");
             }
         }
-
-
     }
 }
